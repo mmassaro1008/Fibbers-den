@@ -1,0 +1,11 @@
+{
+  "name": "Fibber's Den",
+  "short_name": "Fibber's Den",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0806",
+  "theme_color": "#0d0806",
+  "icons": [{ "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }]
+}
